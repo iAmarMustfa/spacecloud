@@ -1,0 +1,9 @@
+node_modules
+.vscode
+jsconfig.json
+typings
+files
+server/**/*.js.map
+package-lock.json
+
+.directory
