@@ -1,7 +1,7 @@
 {
     "name": "Space Cloud",
     "description": "Directly upload files to Cloud",
-    "repository": "https://github.com/Mrigank11/embetacloud",
+    "repository": "https://github.com/iAmarMustfa/spacecloud",
     "env": {
         "GOOGLE_CLIENT_ID": {
             "description": "Google Project's Client ID"
